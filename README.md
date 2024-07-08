@@ -11,8 +11,3 @@
 - Игровой движок: [Clickteam Fusion Developer 2.5](https://www.clickteam.com/clickteam-fusion-2-5-developer)
 - Редактор спрайтов: [Aseprite](https://www.aseprite.org/)
 - Редактор звуков: [Fl Studio 12](https://www.image-line.com/fl-studio/)
-
-## Контакты
-- Telegram: [https://t.me/levalyukovtelegram](https://t.me/levalyukovtelegram)
-- Twitter: [https://x.com/levalyukov](https://x.com/levalyukov)
-- Почта: lev.alyukov@gmail.com
